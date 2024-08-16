@@ -219,6 +219,7 @@ typing_extensions==4.12.2
 tzdata==2024.1
 umap-learn==0.5.6
 urllib3==1.26.18
+vaderSentiment==3.3.2
 wandb==0.12.21
 wasabi==0.10.1
 wcwidth==0.2.13
